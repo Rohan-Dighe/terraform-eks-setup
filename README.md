@@ -38,7 +38,7 @@ Before you begin, ensure you have the following installed and configured:
 
         ```terraform
         # terraform.tfvars
-        aws_region = "us-west-2"
+        aws_region = "us-east-1"
         eks_node_desired_size = 3
         ```
 
